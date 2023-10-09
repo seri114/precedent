@@ -24,6 +24,10 @@
 </p>
 <br/>
 
+## Update(231009)
+Fixed to use bun command. ( ex:  bun install,  bun run dev )
+Updated all plugins, and fixed errors.
+
 ## Introduction
 
 Precedent is an opinionated collection of components, hooks, and utilities for your Next.js project.
